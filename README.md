@@ -33,7 +33,10 @@
 
 ### GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavel-glitch-ui&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel-glitch-ui&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Langs" />
-</div>
+
+![Followers](https://img.shields.io/github/followers/Pavel-glitch-ui?label=Followers&style=flat&logo=github)
+![Stars](https://img.shields.io/github/stars/Pavel-glitch-ui/Pavel-glitch-ui?style=social)
+![Forks](https://img.shields.io/github/forks/Pavel-glitch-ui/Pavel-glitch-ui?style=social)
+![Last commit](https://img.shields.io/github/last-commit/Pavel-glitch-ui/Pavel-glitch-ui?style=flat)
+![Open issues](https://img.shields.io/github/issues/Pavel-glitch-ui/Pavel-glitch-ui?style=flat)
+
